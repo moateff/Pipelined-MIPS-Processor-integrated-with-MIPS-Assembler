@@ -1,4 +1,4 @@
-# Pipelined MIPS Processor & Two-Pass Assembler
+# Pipelined MIPS Processor & Two Passes Assembler
 
 This project implements a **Pipelined MIPS Processor** along with a **Two Passes Assembler** to demonstrate the full flow from assembly code to execution.  
 
